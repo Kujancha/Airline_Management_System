@@ -6,3 +6,7 @@ The GUI was built using Python's Powerful PyQT5. This project was done as a proj
 </ul>
 <br>
 and then run the python main.py :)
+# AND DON"T FORGET TO CHANGE THE USERNAME AND PASSOWRD IN THE utils.py file
+<br>
+# Screenshot of the Main Window
+<img width="1093" height="735" alt="image" src="https://github.com/user-attachments/assets/14fca182-1944-4082-a147-16667be6f1b2" />
